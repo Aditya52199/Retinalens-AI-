@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.6717663421418637,
+  "balanced_accuracy": 0.49320282592668513,
+  "quadratic_weighted_kappa": 0.774172051683419,
+  "train_loss": 1.0463750335849982
+}
